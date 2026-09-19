@@ -1,0 +1,9 @@
+# DIRECTORIES TO IGNORE
+/0_data/*
+/0_env/*
+/2_results/*
+/rawgeno/
+
+# FILES TO IGNORE
+**/*.slurm.sh
+**/*.{csv,tsv}
